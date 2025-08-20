@@ -1,5 +1,4 @@
 # Portfolio-Optimization-Risk-Analysis-Framework
-## Introduction
 This is comprehensive quantitative finance project tha combines traditional portfolio optimization with machine learning techniques for enhanced risk management and predictive analytics.
 
 ## Overview
@@ -11,10 +10,10 @@ This project implements a sophisticated portfolio optimization framework that go
 3. Under different economic regimes, how do these risks differ and impact our portfolio?
 
 ## Motivation
-Understanding the market of stock market returns \
-Preparing the best optimize portfolio for financial gains\
-Mitigating the risk especially in this era of market volatility may be with tarrif wars or major geopolitical events like conflicts between countries
-Potential future implications especially for gaining the optimize returns.
+- Understanding the market of stock market returns \
+- Preparing the best optimize portfolio for financial gains\
+- Mitigating the risk especially in this era of market volatility may be with tarrif wars or major geopolitical events like conflicts between countries
+- Potential future implications especially for gaining the optimize returns.
 
 ## Methodology & Models
 I have used the different strategies and models for this analyzing such as: \
