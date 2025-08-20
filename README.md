@@ -16,7 +16,7 @@ This project implements a sophisticated portfolio optimization framework that go
 - Potential future implications especially for gaining the optimize returns.
 
 ## Methodology & Models
-I have used the different strategies and models for this analyzing such as: \
+I have used the different strategies and models for this analyzing such as: 
 - Data Acquisition (using Stooq_data)
 - Risk Analysis (VaR, CVaR, etc.)
 - ML Enhancement (Monte Carlo Simulation)
