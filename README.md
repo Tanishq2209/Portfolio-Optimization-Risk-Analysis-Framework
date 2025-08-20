@@ -17,22 +17,22 @@ This project implements a sophisticated portfolio optimization framework that go
 
 ## Methodology & Models
 I have used the different strategies and models for this analyzing such as: \
-Data Acquisition (using Stooq_data)\
-Risk Analysis (VaR, CVaR, etc.)\
-ML Enhancement (Monte Carlo Simulation)\
-Optimization (Traditional Portfolio Optimization)\
-Visualization (Efficient Frontier Visualization)\
+- Data Acquisition (using Stooq_data)
+- Risk Analysis (VaR, CVaR, etc.)
+- ML Enhancement (Monte Carlo Simulation)
+- Optimization (Traditional Portfolio Optimization)
+- Visualization (Efficient Frontier Visualization)
 
 **Data analysis** implemented using Python packages **(Pandas, Numpy, Matplotlib, Scikit-learn, SciPy Seaborn, Plotly)**
 
 ## Data Description
 Data Source (Stooq Market DataFinance,  01/01/2020 - 01/01/2025)\
-Stocks used from the US market:\
-NVIDIA Corporation: NVDA\
-Tesla, Inc.: TSLA\
-Amazon.com, Inc.: AMZN\
-Alphabet Inc. (Class C): GOOG\
-Apple Inc.: AAPL\
+- Stocks used from the US market:\
+- NVIDIA Corporation: NVDA
+- Tesla, Inc.: TSLA
+- Amazon.com, Inc.: AMZN
+- Alphabet Inc. (Class C): GOOG
+- Apple Inc.: AAPL
 
 **Note:-**\
 For Comparing the Beta, I am using the SPDR S&P 500 ETF as a market benchmark.
@@ -46,17 +46,17 @@ For Comparing the Beta, I am using the SPDR S&P 500 ETF as a market benchmark.
 ```
 
 ## Findings/Summary
-Optimal Sharpe Ratio: 1.48 \
-Best Sortino Ratio: 2.15  \
-Efficient frontier successfully identified \
-ML models achieved 97%+ prediction accuracy \
-Clear risk-return tradeoffs demonstrated \
+- Optimal Sharpe Ratio: 1.48 
+- Best Sortino Ratio: 2.15  
+- Efficient frontier successfully identified 
+- ML models achieved 97%+ prediction accuracy 
+- Clear risk-return tradeoffs demonstrated 
 
 ## Key Takeaways
-Traditional + modern approaches = superior results \
-Machine learning enhances but doesn't replace human judgment \
- Visualization reveals hidden insights \
-Multiple perspectives beat single metrics. \
+* Traditional + modern approaches = superior results 
+* Machine learning enhances but doesn't replace human judgment 
+* Visualization reveals hidden insights 
+* Multiple perspectives beat single metrics. 
 
 #### Thanks you for reading this!
 #### Have a good time ahead! 
