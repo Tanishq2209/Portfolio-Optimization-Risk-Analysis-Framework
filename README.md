@@ -27,7 +27,7 @@ I have used the different strategies and models for this analyzing such as:
 
 ## Data Description
 Data Source (Stooq Market DataFinance,  01/01/2020 - 01/01/2025)\
-Stocks used from the US market:\
+Stocks used from the US market:
 - NVIDIA Corporation: NVDA
 - Tesla, Inc.: TSLA
 - Amazon.com, Inc.: AMZN
