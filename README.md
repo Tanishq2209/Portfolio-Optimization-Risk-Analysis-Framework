@@ -40,8 +40,8 @@ For Comparing the Beta, I am using the SPDR S&P 500 ETF as a market benchmark.
 ## Repository Structure
 
 ```
+├── Main presentation file.pdf                           # Rendered power point presentation PDF for my analysis 
 ├── Portfolio Optimization & Risk Analysis using ML.py   # Main python Markdown file for the full analysis code
-├── Main presentation file.pdf                           # Rendered power point presentation (output and results presented of python Markdown)
 └── README.md                                            # This file
 ```
 
