@@ -10,8 +10,8 @@ This project implements a sophisticated portfolio optimization framework that go
 3. Under different economic regimes, how do these risks differ and impact our portfolio?
 
 ## Motivation
-- Understanding the market of stock market returns \
-- Preparing the best optimize portfolio for financial gains\
+- Understanding the market of stock market returns 
+- Preparing the best optimize portfolio for financial gains
 - Mitigating the risk especially in this era of market volatility may be with tarrif wars or major geopolitical events like conflicts between countries
 - Potential future implications especially for gaining the optimize returns.
 
