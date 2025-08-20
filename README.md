@@ -63,7 +63,7 @@ For Comparing the Beta, I am using the SPDR S&P 500 ETF as a market benchmark.
 
 
 ## Contact
-**Tanishq Gupta**
+**Tanishq Gupta** \
 MSc Quantitative Finance\
 Email ID: [gu.tanishq@gmail.com](mailto:gu.tanishq@gmail.com) \
 LinkedIn: [linkedin.com/in/tanishq-gupta ](https://www.linkedin.com/in/tanishq-gupta-443197200/)
