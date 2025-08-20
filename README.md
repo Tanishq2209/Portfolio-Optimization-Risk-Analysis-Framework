@@ -27,7 +27,7 @@ I have used the different strategies and models for this analyzing such as: \
 
 ## Data Description
 Data Source (Stooq Market DataFinance,  01/01/2020 - 01/01/2025)\
-- Stocks used from the US market:\
+Stocks used from the US market:\
 - NVIDIA Corporation: NVDA
 - Tesla, Inc.: TSLA
 - Amazon.com, Inc.: AMZN
@@ -40,9 +40,9 @@ For Comparing the Beta, I am using the SPDR S&P 500 ETF as a market benchmark.
 ## Repository Structure
 
 ```
-├── Portfolio Optimization & Risk Analysis using ML.py                 # Main python Markdown file for the full analysis code
-├── Main presentation file.pdf     # Rendered power point presentation (output and results presented of python Markdown)
-└── README.md                       # This file
+├── Portfolio Optimization & Risk Analysis using ML.py   # Main python Markdown file for the full analysis code
+├── Main presentation file.pdf                           # Rendered power point presentation (output and results presented of python Markdown)
+└── README.md                                            # This file
 ```
 
 ## Findings/Summary
